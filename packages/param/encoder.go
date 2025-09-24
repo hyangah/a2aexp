@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"time"
 
-	shimjson "github.com/hyangah/a2a-exp/internal/encoding/json"
+	shimjson "github.com/hyangah/a2aexp/internal/encoding/json"
 
 	"github.com/tidwall/sjson"
 )

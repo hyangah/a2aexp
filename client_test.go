@@ -10,10 +10,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/hyangah/a2a-exp"
-	"github.com/hyangah/a2a-exp/internal"
-	"github.com/hyangah/a2a-exp/option"
-	"github.com/hyangah/a2a-exp/shared"
+	"github.com/hyangah/a2aexp"
+	"github.com/hyangah/a2aexp/internal"
+	"github.com/hyangah/a2aexp/option"
+	"github.com/hyangah/a2aexp/shared"
 )
 
 type closureTransport struct {
