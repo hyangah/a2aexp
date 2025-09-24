@@ -3,7 +3,7 @@ package param
 import (
 	"encoding/json"
 	"fmt"
-	shimjson "github.com/stainless-sdks/a2a-exp-go/internal/encoding/json"
+	shimjson "github.com/hyangah/a2a-exp/internal/encoding/json"
 	"time"
 )
 

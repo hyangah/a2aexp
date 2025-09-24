@@ -1,4 +1,4 @@
-module github.com/stainless-sdks/a2a-exp-go
+module github.com/hyangah/a2a-exp
 
 go 1.22
 

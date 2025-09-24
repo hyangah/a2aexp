@@ -3,9 +3,9 @@
 package a2aexp
 
 import (
-	"github.com/stainless-sdks/a2a-exp-go/internal/apierror"
-	"github.com/stainless-sdks/a2a-exp-go/packages/param"
-	"github.com/stainless-sdks/a2a-exp-go/shared"
+	"github.com/hyangah/a2a-exp/internal/apierror"
+	"github.com/hyangah/a2a-exp/packages/param"
+	"github.com/hyangah/a2a-exp/shared"
 )
 
 // aliased to make [param.APIUnion] private when embedding

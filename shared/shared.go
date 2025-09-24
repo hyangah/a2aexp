@@ -5,10 +5,10 @@ package shared
 import (
 	"encoding/json"
 
-	"github.com/stainless-sdks/a2a-exp-go/internal/apijson"
-	"github.com/stainless-sdks/a2a-exp-go/packages/param"
-	"github.com/stainless-sdks/a2a-exp-go/packages/respjson"
-	"github.com/stainless-sdks/a2a-exp-go/shared/constant"
+	"github.com/hyangah/a2a-exp/internal/apijson"
+	"github.com/hyangah/a2a-exp/packages/param"
+	"github.com/hyangah/a2a-exp/packages/respjson"
+	"github.com/hyangah/a2a-exp/shared/constant"
 )
 
 // aliased to make [param.APIUnion] private when embedding

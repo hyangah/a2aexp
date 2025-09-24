@@ -1,8 +1,8 @@
 package sentinel_test
 
 import (
-	"github.com/stainless-sdks/a2a-exp-go/internal/encoding/json/sentinel"
-	"github.com/stainless-sdks/a2a-exp-go/packages/param"
+	"github.com/hyangah/a2a-exp/internal/encoding/json/sentinel"
+	"github.com/hyangah/a2a-exp/packages/param"
 	"reflect"
 	"slices"
 	"testing"

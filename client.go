@@ -8,8 +8,8 @@ import (
 	"os"
 	"slices"
 
-	"github.com/stainless-sdks/a2a-exp-go/internal/requestconfig"
-	"github.com/stainless-sdks/a2a-exp-go/option"
+	"github.com/hyangah/a2a-exp/internal/requestconfig"
+	"github.com/hyangah/a2a-exp/option"
 )
 
 // Client creates a struct with services and top level methods that help with
