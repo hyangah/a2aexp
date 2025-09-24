@@ -3,8 +3,8 @@ package apijson_test
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/hyangah/a2a-exp/internal/apijson"
-	"github.com/hyangah/a2a-exp/packages/param"
+	"github.com/hyangah/a2aexp/internal/apijson"
+	"github.com/hyangah/a2aexp/packages/param"
 	"reflect"
 	"testing"
 )

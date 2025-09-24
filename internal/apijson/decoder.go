@@ -7,7 +7,7 @@ package apijson
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/hyangah/a2a-exp/packages/param"
+	"github.com/hyangah/a2aexp/packages/param"
 	"reflect"
 	"strconv"
 	"sync"

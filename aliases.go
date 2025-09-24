@@ -3,9 +3,9 @@
 package a2aexp
 
 import (
-	"github.com/hyangah/a2a-exp/internal/apierror"
-	"github.com/hyangah/a2a-exp/packages/param"
-	"github.com/hyangah/a2a-exp/shared"
+	"github.com/hyangah/a2aexp/internal/apierror"
+	"github.com/hyangah/a2aexp/packages/param"
+	"github.com/hyangah/a2aexp/shared"
 )
 
 // aliased to make [param.APIUnion] private when embedding
