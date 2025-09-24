@@ -8,10 +8,10 @@ import (
 	"os"
 	"testing"
 
-	"github.com/stainless-sdks/a2a-exp-go"
-	"github.com/stainless-sdks/a2a-exp-go/internal/testutil"
-	"github.com/stainless-sdks/a2a-exp-go/option"
-	"github.com/stainless-sdks/a2a-exp-go/shared"
+	"github.com/hyangah/a2a-exp"
+	"github.com/hyangah/a2a-exp/internal/testutil"
+	"github.com/hyangah/a2a-exp/option"
+	"github.com/hyangah/a2a-exp/shared"
 )
 
 func TestA2aexpInvokeWithOptionalParams(t *testing.T) {

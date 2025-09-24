@@ -10,10 +10,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/stainless-sdks/a2a-exp-go"
-	"github.com/stainless-sdks/a2a-exp-go/internal"
-	"github.com/stainless-sdks/a2a-exp-go/option"
-	"github.com/stainless-sdks/a2a-exp-go/shared"
+	"github.com/hyangah/a2a-exp"
+	"github.com/hyangah/a2a-exp/internal"
+	"github.com/hyangah/a2a-exp/option"
+	"github.com/hyangah/a2a-exp/shared"
 )
 
 type closureTransport struct {

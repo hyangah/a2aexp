@@ -5,11 +5,11 @@ package a2aexp
 import (
 	"encoding/json"
 
-	"github.com/stainless-sdks/a2a-exp-go/internal/apijson"
-	"github.com/stainless-sdks/a2a-exp-go/packages/param"
-	"github.com/stainless-sdks/a2a-exp-go/packages/respjson"
-	"github.com/stainless-sdks/a2a-exp-go/shared"
-	"github.com/stainless-sdks/a2a-exp-go/shared/constant"
+	"github.com/hyangah/a2a-exp/internal/apijson"
+	"github.com/hyangah/a2a-exp/packages/param"
+	"github.com/hyangah/a2a-exp/packages/respjson"
+	"github.com/hyangah/a2a-exp/shared"
+	"github.com/hyangah/a2a-exp/shared/constant"
 )
 
 // InvokeResponseUnion contains all possible properties and values from

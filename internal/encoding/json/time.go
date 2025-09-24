@@ -2,7 +2,7 @@
 package json
 
 import (
-	"github.com/stainless-sdks/a2a-exp-go/internal/encoding/json/shims"
+	"github.com/hyangah/a2a-exp/internal/encoding/json/shims"
 	"reflect"
 	"time"
 )

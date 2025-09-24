@@ -1,7 +1,7 @@
 package apijson
 
 import (
-	"github.com/stainless-sdks/a2a-exp-go/packages/respjson"
+	"github.com/hyangah/a2a-exp/packages/respjson"
 	"reflect"
 )
 

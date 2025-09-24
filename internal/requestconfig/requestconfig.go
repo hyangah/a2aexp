@@ -18,10 +18,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/stainless-sdks/a2a-exp-go/internal"
-	"github.com/stainless-sdks/a2a-exp-go/internal/apierror"
-	"github.com/stainless-sdks/a2a-exp-go/internal/apiform"
-	"github.com/stainless-sdks/a2a-exp-go/internal/apiquery"
+	"github.com/hyangah/a2a-exp/internal"
+	"github.com/hyangah/a2a-exp/internal/apierror"
+	"github.com/hyangah/a2a-exp/internal/apiform"
+	"github.com/hyangah/a2a-exp/internal/apiquery"
 )
 
 func getDefaultHeaders() map[string]string {
