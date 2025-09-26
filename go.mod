@@ -1,4 +1,4 @@
-module github.com/hyangah/a2a-exp
+module github.com/hyangah/a2aexp
 
 go 1.22
 

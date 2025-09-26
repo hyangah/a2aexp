@@ -5,11 +5,11 @@ package a2aexp
 import (
 	"encoding/json"
 
-	"github.com/hyangah/a2a-exp/internal/apijson"
-	"github.com/hyangah/a2a-exp/packages/param"
-	"github.com/hyangah/a2a-exp/packages/respjson"
-	"github.com/hyangah/a2a-exp/shared"
-	"github.com/hyangah/a2a-exp/shared/constant"
+	"github.com/hyangah/a2aexp/internal/apijson"
+	"github.com/hyangah/a2aexp/packages/param"
+	"github.com/hyangah/a2aexp/packages/respjson"
+	"github.com/hyangah/a2aexp/shared"
+	"github.com/hyangah/a2aexp/shared/constant"
 )
 
 // InvokeResponseUnion contains all possible properties and values from

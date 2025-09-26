@@ -1,7 +1,7 @@
 package apijson
 
 import (
-	"github.com/hyangah/a2a-exp/packages/respjson"
+	"github.com/hyangah/a2aexp/packages/respjson"
 	"reflect"
 )
 
