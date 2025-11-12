@@ -1,8 +1,8 @@
 package sentinel_test
 
 import (
-	"github.com/hyangah/a2a-exp/internal/encoding/json/sentinel"
-	"github.com/hyangah/a2a-exp/packages/param"
+	"github.com/hyangah/a2aexp/internal/encoding/json/sentinel"
+	"github.com/hyangah/a2aexp/packages/param"
 	"reflect"
 	"slices"
 	"testing"

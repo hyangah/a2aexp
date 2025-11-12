@@ -13,7 +13,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/hyangah/a2a-exp/packages/param"
+	"github.com/hyangah/a2aexp/packages/param"
 )
 
 var encoders sync.Map // map[encoderEntry]encoderFunc

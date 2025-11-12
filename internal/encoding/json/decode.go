@@ -14,7 +14,7 @@ import (
 	"encoding"
 	"encoding/base64"
 	"fmt"
-	"github.com/hyangah/a2a-exp/internal/encoding/json/shims"
+	"github.com/hyangah/a2aexp/internal/encoding/json/shims"
 	"reflect"
 	"strconv"
 	"strings"

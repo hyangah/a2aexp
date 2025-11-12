@@ -7,10 +7,10 @@ import (
 	"os"
 	"testing"
 
-	"github.com/hyangah/a2a-exp"
-	"github.com/hyangah/a2a-exp/internal/testutil"
-	"github.com/hyangah/a2a-exp/option"
-	"github.com/hyangah/a2a-exp/shared"
+	"github.com/hyangah/a2aexp"
+	"github.com/hyangah/a2aexp/internal/testutil"
+	"github.com/hyangah/a2aexp/option"
+	"github.com/hyangah/a2aexp/shared"
 )
 
 func TestUsage(t *testing.T) {

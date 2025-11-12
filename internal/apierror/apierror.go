@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"net/http/httputil"
 
-	"github.com/hyangah/a2a-exp/internal/apijson"
-	"github.com/hyangah/a2a-exp/packages/respjson"
+	"github.com/hyangah/a2aexp/internal/apijson"
+	"github.com/hyangah/a2aexp/packages/respjson"
 )
 
 // Error represents an error that originates from the API, i.e. when a request is

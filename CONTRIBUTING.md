@@ -41,7 +41,7 @@ To use a local version of this library from source in another project, edit the 
 directive. This can be done through the CLI with the following:
 
 ```sh
-$ go mod edit -replace github.com/hyangah/a2a-exp=/path/to/a2a-exp
+$ go mod edit -replace github.com/hyangah/a2aexp=/path/to/a2aexp
 ```
 
 ## Running tests

@@ -5,10 +5,10 @@ package shared
 import (
 	"encoding/json"
 
-	"github.com/hyangah/a2a-exp/internal/apijson"
-	"github.com/hyangah/a2a-exp/packages/param"
-	"github.com/hyangah/a2a-exp/packages/respjson"
-	"github.com/hyangah/a2a-exp/shared/constant"
+	"github.com/hyangah/a2aexp/internal/apijson"
+	"github.com/hyangah/a2aexp/packages/param"
+	"github.com/hyangah/a2aexp/packages/respjson"
+	"github.com/hyangah/a2aexp/shared/constant"
 )
 
 // aliased to make [param.APIUnion] private when embedding

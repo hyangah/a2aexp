@@ -2,7 +2,7 @@ package param
 
 import (
 	"encoding/json"
-	"github.com/hyangah/a2a-exp/internal/encoding/json/sentinel"
+	"github.com/hyangah/a2aexp/internal/encoding/json/sentinel"
 	"reflect"
 )
 

@@ -8,8 +8,8 @@ import (
 	"os"
 	"slices"
 
-	"github.com/hyangah/a2a-exp/internal/requestconfig"
-	"github.com/hyangah/a2a-exp/option"
+	"github.com/hyangah/a2aexp/internal/requestconfig"
+	"github.com/hyangah/a2aexp/option"
 )
 
 // Client creates a struct with services and top level methods that help with

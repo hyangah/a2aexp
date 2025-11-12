@@ -18,10 +18,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/hyangah/a2a-exp/internal"
-	"github.com/hyangah/a2a-exp/internal/apierror"
-	"github.com/hyangah/a2a-exp/internal/apiform"
-	"github.com/hyangah/a2a-exp/internal/apiquery"
+	"github.com/hyangah/a2aexp/internal"
+	"github.com/hyangah/a2aexp/internal/apierror"
+	"github.com/hyangah/a2aexp/internal/apiform"
+	"github.com/hyangah/a2aexp/internal/apiquery"
 )
 
 func getDefaultHeaders() map[string]string {
